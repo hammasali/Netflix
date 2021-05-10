@@ -1,4 +1,8 @@
 # Flutter Netflix Responsive UI Starter Project
+I have used proper state management tech in the project. This project is responsive with both orientation. Hope you like my design.
+
+
+
 This is the preview design of the Netflix UI.
 
 ![screen_1_4_30](https://user-images.githubusercontent.com/52609580/117596447-d561dc00-b15c-11eb-8aa0-0543e7410274.png)![screen_2_1_30](https://user-images.githubusercontent.com/52609580/117596481-e7dc1580-b15c-11eb-800a-2c3dab36a467.png)![screen_3_4_30](https://user-images.githubusercontent.com/52609580/117596499-f4606e00-b15c-11eb-999d-364e0cf333bf.png)
