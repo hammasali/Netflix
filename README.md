@@ -1,6 +1,10 @@
 # Flutter Netflix Responsive UI Starter Project
-I have used proper state management tech in the project. This project is responsive with both orientation. Hope you like my design.
+I have used proper state management tech in the project. This project is responsive with both orientation. It took me approximately 2 days to complete this design. 
+Hope you like it :)
 
+# Packages
+ 1.  video_player: ^1.0.1
+ 2.  flutter_bloc: ^6.1.1
 
 
 This is the preview design of the Netflix UI.
